@@ -1,5 +1,24 @@
 {
+  "name": "needynotes",
+  "version": "1.0.0",
+  "description": "![badge](https://img.shields.io/badge/license-MIT-darkred)",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smb685/needynotes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smb685/needynotes/issues"
+  },
+  "homepage": "https://github.com/smb685/needynotes#readme",
   "dependencies": {
-    "express": "^4.18.1"
+    "express": "^4.18.1",
+    "uuid": "^8.3.2"
   }
 }
