@@ -27,4 +27,4 @@ This application is covered under the MIT license.
   ## Questions:
   Feel free to email me at: sylvester.brandon25@gmail.com
   
-![Uploading Screen Recording 2022-08-19 at 11.41.06 PM.gif…]()
+![Screen Recording 2022-08-19 at 11 41 06 PM](https://user-images.githubusercontent.com/100239887/185728281-8f6ff97b-ad86-449d-b545-fa2676d79da6.gif)
